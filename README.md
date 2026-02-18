@@ -1,7 +1,7 @@
 Multi-Region Energy Consumption & Predictive Analysis Framework
 Academic Project | MSc in Data Analytics | CCT College Dublin
 
-🎓 Academic Research Focus
+Academic Research Focus
 This project investigates the complex drivers of electricity consumption across multiple European regions. The core objective was to perform high-fidelity Applied Statistics and Sensitivity Analysis on massive datasets to identify the impact of celestial cycles and meteorological variance on energy demand.
 
 The Engineering Challenge: "Stage 1" vs. Production
